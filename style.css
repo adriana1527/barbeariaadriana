@@ -1,3 +1,9 @@
 #banner{
     width: 100%;
 }
+
+.titulo-principal{
+    text-transforme: uppercase;
+    text-alingn: center;
+    color: brown;
+}
