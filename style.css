@@ -17,5 +17,11 @@ body{
 }
 
 .titulo2{
-    color: ;
+    color:blanchedalmond ;
+    font-family: sans-serif;
+}
+.principal{
+    background-color: aquamarine;
+    padding: 30px;
+    margin: 30px;
 }
