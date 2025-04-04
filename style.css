@@ -19,7 +19,9 @@ body{
 .titulo2{
     color:rgb(212, 17, 154) ;
     font-family: sans-serif;
+    text-align: center;
 }
+
 .principal{
     background-color: aquamarine;
     padding: 30px;
