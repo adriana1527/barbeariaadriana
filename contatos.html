@@ -11,7 +11,25 @@
      <p>E-mail: <input type="email" placeholder="seuemamail@dominio.com" ></p>
      <p>Telefone: <input type="number" placeholder="(xx) xxxxx-xxxx"></p>
      <p><Mensagem:</p>
-    
-      </form>
+
+    <p>Mensagem</p>
+    <textarea cols="70" rows="10"  required></textarea>
+            <legend>Como prefere o nosso contato?</legend>
+            <p><input type="radio" name="contato" value="email" > Email</p>
+            <p><input type="radio" name="contato" value="telefone"> Telefone</p>
+            <p><input type="radio" name="contato" value="whatsapp" checked> WhatsApp</p>
+        <fieldset>
+            <legend>Qual horário prefere ser atendido?</legend>
+            <select>
+                <option>Manhã</option>
+                <option>Tarde</option>
+                <option>Noite</option>
+            </select>
+        </fieldset>
+
+        <p><input type="checkbox" checked>Gostaria de receber nossas novidades por email?</p>
+
+        <button class="enviar"> Enviar Formulário </button>
+    </form>
 </body>
 </html>
