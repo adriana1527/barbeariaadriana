@@ -3,7 +3,7 @@ header{
     padding: 20PX 0;
 }
 
-caixa{
+.caixa{
     position: relative;
     width: 940px;
     margin: 0 auto;
